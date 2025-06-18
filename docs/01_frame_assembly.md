@@ -20,6 +20,6 @@ Assemble the ImpulseRC ApexDC EVO 5" frame and mount all mechanical components s
 
 ## 📸 Photos
 
-![Top view of assembled frame](../images/frame_top_view.jpg)
+![Top view of assembled frame](../images/frame/FrontFrame.jpeg)
 
 
