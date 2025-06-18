@@ -39,15 +39,8 @@ This repository documents the end-to-end design, build, and test of a custom 5" 
 
 ## 🛠️ Build Process
 
-### 📐 1. Design Requirements
-- <250g target abandoned in favor of power + control authority
-- Intended for learning tuning and post-flight analysis
-- Must be durable, tunable, and support both line-of-sight and FPV
-
-### 🧰 2. Assembly Notes
-- ESC stack soft-mounted to minimize vibration coupling
-- Capacitor added to mitigate voltage ripple on throttle punches
-- VTX and receiver placement optimized for antenna separation
+### 1) Frame Construction
+- ![Link to Frame](../docs/01_frame_assembly.md)
 
 ---
 
