@@ -64,9 +64,7 @@ This repository documents the end-to-end design, build, and test of a custom 5" 
 
 | Test | Purpose | Results |
 |------|---------|---------|
-| Hover Test | Verify motor direction, vibration levels | Stable; minor Y-axis oscillation tuned via D-term |
-| Flip Test | Test throttle-to-PID response | Clean flips, slight bounce-back damped via gyro filter |
-| FPV Punchout | ESC response + cap stress test | No brownouts, motor temps nominal |
+| N/A | N/A | N/A |
 
 ---
 
@@ -74,9 +72,7 @@ This repository documents the end-to-end design, build, and test of a custom 5" 
 
 | Issue | Diagnosis | Fix |
 |-------|-----------|-----|
-| FC rebooting under load | ESC back-EMF spike causing brownout | Added low-ESR capacitor to main power input |
-| Motor desync at low throttle | ESC protocol mismatch | Flashed ESC with BLHeli_S and enabled DShot600 |
-| FPV static during punchout | Shared power rail noise | Added LC filter and relocated VTX ground |
+| N/A | N/A | N/A |
 
 ---
 
