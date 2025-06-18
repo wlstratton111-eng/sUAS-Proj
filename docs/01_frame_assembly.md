@@ -22,6 +22,4 @@ Assemble the ImpulseRC ApexDC EVO 5" frame and mount all mechanical components s
 
 ![Top view of assembled frame](../images/frame_top_view.jpg)
 
-## 🔍 Notes
-- Frame is well-machined; all parts fit without sanding.
-- Pre-plan ESC wire routing to avoid mid-build rework.
+
