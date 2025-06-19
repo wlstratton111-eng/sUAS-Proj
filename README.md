@@ -40,7 +40,7 @@ This repository documents the end-to-end design, build, and test of a custom 5" 
 ## 🛠️ Build Process
 
 ### 1) Frame Construction
-- ![Link to Frame](../docs/01_frame_assembly.md)
+- [01 – Frame Assembly](docs/01_frame_assembly.md)
 
 ---
 
