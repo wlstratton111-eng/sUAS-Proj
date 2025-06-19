@@ -80,10 +80,7 @@ This repository documents the end-to-end design, build, and test of a custom 5" 
 
 ## 🧠 Lessons Learned
 
-- How to tune PID loops and filters for flight stability
-- Debugging electrical noise and power issues
-- Importance of clean wiring and good documentation
-- How to use Betaflight CLI and blackbox logs for iteration
+- N/A
 
 ---
 
