@@ -90,7 +90,7 @@ This repository documents the end-to-end design, build, and test of a custom 5" 
 - Aerospace Engineer (Auburn University) | Minor in Computer Science  
 - FAA Part 107 Certified Remote Pilot  
 - Passionate about systems engineering, flight testing, and autonomy  
-- [LinkedIn](https://www.linkedin.com/in/william-stratton-wlstratton) | [Email](mailto:wlstratton111@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/william-stratton-wlstratton) | [Email](mailto:wlstratton111@gmail.com) | [Website](https://www.willstratton.info)
 
 ---
 
