@@ -96,7 +96,7 @@ Use the SpeedyBee pinout to solder signal and power wires.
   - No smoke/smell from ESC
   - Motors idle (not spinning)
 
-> ✅ Ready for software setup next (see `docs/02_software_setup.md`)
+> ✅ Ready for software setup next (see `docs/03_software_setup.md`)
 
 ---
 
